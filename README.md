@@ -1,2 +1,3 @@
 # petrol-data.github.io
-petrol data's hosting for http://petroldata.tk
+This is a GitHub Pages repository for a car database that originated from a Google Document!
+<br>© 2018 | petrol-data.github.io
